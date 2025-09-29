@@ -44,6 +44,7 @@ This project aims to design and develop a platform (website/application) that te
 ---
 
 ## 🔗 Links
+- [Project files](https://drive.google.com/drive/folders/1aNoTikDweTpNQY08VafCI0BYrnz9KH6z?usp=sharing)
 - [Prototype on Figma](#)  
 - [Behance Case Study](#)  
 - [Final Presentation](#)
