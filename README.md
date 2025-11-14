@@ -9,8 +9,8 @@ This project aims to design and develop a platform (website/application) that te
 
 ## 👥 Team Members
 - Manar Ahmed Saad Soliman – Team Leader / Project Manager  
-- Israa Gamal Elfeky – Prototype & Testing Lead 
 - Doaa Ramadan Ali Hegazi – UX Researcher
+- Israa Gamal Elfeky – Prototype & Testing Lead 
 - Reem Ahmed Gomaa Darwish – UI Designer  
 - Wessam Tamer Zaid – UI Designer  
 - Nada Elsebaey Mohamed Heshmat – UI Designer  
