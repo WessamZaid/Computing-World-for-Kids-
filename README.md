@@ -39,7 +39,7 @@ This project aims to design and develop a platform (website/application) that te
 - UI Design (High-fidelity)  
 - Interactive Prototype (Figma)  
 - Usability Testing Report  
-- Final Presentation (Behance + PPTX)  
+- Final Presentation (Behance)  
 
 ---
 
