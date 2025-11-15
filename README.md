@@ -48,5 +48,5 @@ This project aims to design and develop a platform (website/application) that te
 - [UX on Figam](https://www.figma.com/board/BPSA2RnMccurvAw8hZntIC/Computing-World-for-Kids-%7C-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%AD%D9%88%D8%B3%D8%A8%D8%A9-%D9%84%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84?t=Y0KVS8Dqbys78U37-1)  
 - [UI on Figma](https://www.figma.com/design/U0cgfVXsDx2XbZC3MPHTc4/Computing-World-For-Kids?node-id=0-1&t=6gYcgCReJ241qi4B-1) 
 - [Case Study](https://drive.google.com/file/d/1wXLWk75kZs6GSD1mVAb7VDmfppTB1hbl/view?usp=sharing)
-- [Case Study](#)
+- [Behance Case Study](#)
 
