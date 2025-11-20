@@ -1,4 +1,4 @@
-#  Computing World for Kids | عالم الحوسبة للأطفال
+#  Computing World for Kids (Bitto World) | عالم الحوسبة للأطفال
 
 ##  Project Idea
 This project aims to design and develop a platform (website/application) that teaches children aged 6–12 the basics of computational thinking and computing concepts without the need for a computer, through “Unplugged” activities and interactive content.  
